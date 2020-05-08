@@ -32,4 +32,7 @@ a{
    padding-top: 9%;
    width: 14.9vw;
    min-width: 160px;
+   &:hover{
+      background-color: #dedede;
+   }
 }
