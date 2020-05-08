@@ -14,9 +14,11 @@ header{
 }
 
 h1{
-   margin:$margin-size;
+   padding-left: $margin-size;
+   padding-right: $margin-size;
    font-size: 70px;
    width: 80%;
+   background-color: rgba(100%, 100%, 100%, .7);
 }
 
 h2{
